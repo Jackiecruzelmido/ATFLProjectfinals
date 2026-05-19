@@ -11,7 +11,7 @@ program_filepath = sys.argv[1]
 
 print ("[CMD Parsing]")
 #############################
-# Tokenize program 
+# Tokenize program
 #############################
 
 # read file lines
